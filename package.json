@@ -1,5 +1,5 @@
 {
-  "name": "hubot-out-of-office",
+  "name": "hubot-out-of-office-package",
   "description": "Keeps track of who is working from home, who is out of the office, and who is on holiday",
   "version": "0.0.7",
   "author": "Andrew Braithwaite <andrew@losd.info>",
